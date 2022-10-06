@@ -1,0 +1,17 @@
+body{
+    background-color: rosybrown;
+}
+.wrap{
+    width: 40%;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    font-family: comic sans-serif;
+    background-color: rosybrown;
+}
+.container{
+    padding: 5px;
+}
+table{
+    margin: 5px;
+}
